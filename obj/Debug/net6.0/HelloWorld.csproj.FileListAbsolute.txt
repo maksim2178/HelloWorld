@@ -1,0 +1,15 @@
+D:\GitHub-Desktop\file2\bin\Debug\net6.0\HelloWorld.exe
+D:\GitHub-Desktop\file2\bin\Debug\net6.0\HelloWorld.deps.json
+D:\GitHub-Desktop\file2\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\GitHub-Desktop\file2\bin\Debug\net6.0\HelloWorld.dll
+D:\GitHub-Desktop\file2\bin\Debug\net6.0\HelloWorld.pdb
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.dll
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.pdb
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\GitHub-Desktop\file2\obj\Debug\net6.0\ref\HelloWorld.dll
